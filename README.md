@@ -8,7 +8,7 @@ Harness your new superpowers with our video guide [Aircrft TV](https://www.aircr
 
 [Watch the Video Guide 👇🏻](https://www.youtube.com/watch?v=dMYKXVf88J0)
 
-[![Video Guide](https://github.com/aircrftdev/aircrft-blogging-engine-v1-/src/assets/images/aircrft+blogging+engine+readme.png)](https://www.youtube.com/)
+[Video Guide](https://github.com/aircrftdev/aircrft-blogging-engine-v1-/src/assets/images/aircrft+blogging+engine+readme.png)(https://www.youtube.com/)
 
 ## Preview
 
