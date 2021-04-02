@@ -1,10 +1,10 @@
-# gatsby-starter-strata-notion
+# aircrft-blogging-engine-v1
 
-**This is a starter for Gatsby.js V2, demonstrating successful integration with notion as a CMS**
+**Welcome to your new Aircrft blogging engine!**
 
-Gatsby starter based on the Strata site template, designed by [HTML5 UP](https://html5up.net/strata).
+Purpose built to make sharing what your working on at the moment, connecting with and growing a global community - a simply wonderful experience.   [Aircrft Blogging Engine](https://aircrft.com).
 
-Integrated with notion as a CMS for demonstration purposes by [Conrad Lin](https://www.conradlin.com/blog/posts/host-gatsbyjs-blog-with-notion-cms-and-netlify-for-free/)
+Harness your new superpowers with our video guide [Aircrft TV](https://www.aircrft.com/tv)
 
 [Watch the Video Guide 👇🏻](https://www.youtube.com/watch?v=dMYKXVf88J0)
 
@@ -12,11 +12,13 @@ Integrated with notion as a CMS for demonstration purposes by [Conrad Lin](https
 
 ## Preview
 
-https://gatsby-notion-demo.netlify.com/
+https://aircrft.com/blog/
 
 ## Installation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-starter-strata-notion https://github.com/conradlin/gatsby-starter-strata-notion`
+Blogging is a great way to start learning what appeals to your audience. It is a relatively slow but inexpensive method of aggregating analytic data. Start by listing topics to write about, write consistently, and share your post and articles across your business social media channels.
 
-Run `gatsby develop` or `yarn develop` in the terminal to start.
+Get started with 
+`Articles`
+
+Create your first `Newsletters`.
