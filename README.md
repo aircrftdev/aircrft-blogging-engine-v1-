@@ -8,7 +8,7 @@ Harness your new superpowers with our video guide [Aircrft TV](https://www.aircr
 
 [Watch the Video Guide 👇🏻](https://www.youtube.com/watch?v=dMYKXVf88J0)
 
-[![Video Guide](https://github.com/conradlin/gatsby-starter-strata-notion/blob/master/src/assets/images/gatsby%2Bnotion%2Bnetlify.png)](https://www.youtube.com/watch?v=dMYKXVf88J0)
+[![Video Guide](https://github.com/aircrftdev/aircrft-blogging-engine-v1-/blob/master/src/assets/aircrft+blogging+engine+readme.png)](https://www.youtube.com/)
 
 ## Preview
 
