@@ -21,11 +21,13 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Welcome to your new blogging engine! Purpose built to make sharing what your working on at the moment, connecting with and growing a global community, a simply wonderful experience. </h2>
+                            <h2>Welcome to your new blogging engine! 🚀 Purpose built to make sharing what your working on at the moment, connecting with and growing a global community - a simply wonderful experience. </h2>
                         </header>
-                        <p>Blogging is a great way to start learning what appeals to your audience. It is a relatively slow but inexpensive method of aggregating analytic data. Start by listing topics to write about, write consistently, and share your posts, articles, and newsletter across your business social media channels.<br />Get inspired and learn how harness your new superpower with our Build, Launch, Learn in Public Video Series<a href="https://blog.aircrft.com/" target="_blank">Aircrft blog</a> Watch this video for a demo on running your new blogging engine  <a href="https://aircrft.com" target="_blank">Aircrft Blog Lift-off</a></p>
+                        <p>Blogging is a great way to start learning what appeals to your audience. It is a relatively slow but inexpensive method of aggregating analytic data. Start by listing topics to write about, write consistently, and share your posts, articles, and newsletter across your business social media channels.<br />Harness your new superpowers with our ongoing video series <a href="https://aircrft.com/tv" target="_blank">Aircrft TV</a> Check the Aircrft blog with runs on this very same Blogging Engine your using! <a href="https://aircrft.com" target="_blank">Aircrft Blog Lift-off</a></p>
+                        <p>Harness your new blogging superpowers with our ongoing video series <a href="https://aircrft.com/tv" target="_blank">Aircrft TV</a> Check the Aircrft blog which runs on the very same engine your using!  <a href="https://aircrft.com/blog" target="_blank">Aircrft Blog</a></p>
                         <ul className="actions">
-                            <li><a href="https://www.youtube.com/watch?v=dMYKXVf88J0" target="_blank" className="button">Demo & Operating Manual</a></li>
+                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Get started</a></li>
+                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Operating Manual</a></li>
                         </ul>
                     </section>
 
@@ -40,7 +42,7 @@ class HomeIndex extends React.Component {
 
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>Need additional support? Will ❤ to help! Get in touch</p>
+                        <p>Need additional support? Get in touch</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
@@ -58,7 +60,7 @@ class HomeIndex extends React.Component {
                                 <ul className="labeled-icons">
                                     <li>
                                         <h3 className="icon fa-home"><span className="label">Address</span></h3>
-                                        Handcrafted with Love<br />
+                                        Handcrafted with ❤️<br />
                                         Los Angleges CA<br />
                                         United States
                                     </li>
