@@ -21,16 +21,14 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Welcome to your new blogging engine! 🚀 Purpose built to make sharing what your working on at the moment, connecting with and growing a global community - a simply wonderful experience. </h2>
+                            <h2>Welcome to your new blogging engine! A complete blogging sustem purpose built to make sharing what your working on, connecting with and growing a global community - a simply wonderful experience. </h2>
                         </header>
                         <p>Blogging is a great way to start learning what appeals to your audience. It is a relatively slow but inexpensive method of aggregating analytic data. Start by listing topics to write about, write consistently, and share your posts, articles, and newsletter across your business social media channels.</p>
                         
-                        <p>Harness your new blogging superpowers with our ongoing video series <a href="https://aircrft.com/tv" target="_blank">Aircrft TV</a> Check the Aircrft blog which runs on the very same engine your using!  <a href="https://aircrft.com/blog" target="_blank">Aircrft Blog</a></p>
+                        <p>Get started and harness your new blogging superpowers with our Video Guide <a href="https://aircrft.com/blogging-engine/video-guide" target="_blank">Aircrft Video Guide</a> Check the Aircrft blog which runs on the very same engine your using!  <a href="https://aircrft.com/blog" target="_blank">Aircrft Blog</a></p>
                         <ul className="actions">
-                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Getting started</a></li>
+                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Getting started pre-flight checklist</a></li>
                             <li><a href="https://www.aircrft.com" target="_blank" className="button">Operating Manual</a></li>
-                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Watch video guide</a></li>
-                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Visit Aircrft blog</a></li>
                         </ul>
                     </section>
 
