@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Aircrft Blogging Engine",
-    author: "Chai Forest",
-    description: "A complete blogging system"
+    title: "Gatsby Starter - Strata by HTML5 UP",
+    author: "Hunter Chang",
+    description: "A Gatsby.js Starter based on Strata by HTML5 UP"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -24,7 +24,7 @@ module.exports = {
         sourceConfig: [
           {
             name: 'posts',
-            table: 'https://www.notion.so/eadc30decb8046a7bd88bcc81d186442?v=a08ce61d1df24e53b0fb97c5a7f32228',
+            table: 'https://www.notion.so/conradlin/1aa283fcd5ae4a73ba0f73c062de745e?v=6a40014bee144152b55203e2caf0c02e',
             cacheType: 'html'
           }
         ]
