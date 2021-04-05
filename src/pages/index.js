@@ -20,20 +20,39 @@ class HomeIndex extends React.Component {
                 <div id="main">
 
                     <section id="one">
+import React from 'react'
+import Helmet from 'react-helmet'
+import { Link } from "gatsby";
+
+import Layout from '../components/layout'
+
+class HomeIndex extends React.Component {
+
+    render() {
+        const siteTitle = "Gatsby Starter - Strata"
+        const siteDescription = "Site description"
+
+        return (
+            <Layout>
+                <Helmet>
+                        <title>{siteTitle}</title>
+                        <meta name="description" content={siteDescription} />
+                </Helmet>
+
+                <div id="main">
+
+                    <section id="one">
                         <header className="major">
-                            <h2>Welcome to your new blogging engine! A complete blogging sustem purpose built to make sharing what your working on, connecting with and growing a global community - a simply wonderful experience. </h2>
+                            <h2>This is a starter for Gatsby.js V2, demonstrating successful integration with notion as a CMS</h2>
                         </header>
-                        <p>Blogging is a great way to start learning what appeals to your audience. It is a relatively slow but inexpensive method of aggregating analytic data. Start by listing topics to write about, write consistently, and share your posts, articles, and newsletter across your business social media channels.</p>
-                        
-                        <p>Get started and harness your new blogging superpowers with our Video Guide <a href="https://aircrft.com/blogging-engine/video-guide" target="_blank">Aircrft Video Guide</a> Check the Aircrft blog which runs on the very same engine your using!  <a href="https://aircrft.com/blog" target="_blank">Aircrft Blog</a></p>
+                        <p>Based on the Strata site template, designed by HTML5 UP.<br />Integrated with <a href="https://conradlin.com/blog/posts/host-gatsbyjs-blog-with-notion-cms-and-netlify-for-free/" target="_blank">notion</a> as a CMS for demonstration purposes by <a href="https://conradlin.com" target="_blank">Conrad Lin</a></p>
                         <ul className="actions">
-                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Getting started pre-flight checklist</a></li>
-                            <li><a href="https://www.aircrft.com" target="_blank" className="button">Operating Manual</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=dMYKXVf88J0" target="_blank" className="button">Learn More</a></li>
                         </ul>
                     </section>
 
                     <section id="two">
-                        <h2>Activity Feeds</h2>
+                        <h2>Recent Sharing</h2>
 
                         <ul className="actions">
                             <li><Link to={`blog`} className="button">All Articles</Link></li>
@@ -43,7 +62,7 @@ class HomeIndex extends React.Component {
 
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>Need additional support? Get in touch</p>
+                        <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
@@ -61,17 +80,17 @@ class HomeIndex extends React.Component {
                                 <ul className="labeled-icons">
                                     <li>
                                         <h3 className="icon fa-home"><span className="label">Address</span></h3>
-                                        Handcrafted with ❤️<br />
-                                        Los Angleges CA<br />
+                                        1234 Somewhere Rd.<br />
+                                        Nashville, TN 00000<br />
                                         United States
                                     </li>
                                     <li>
                                         <h3 className="icon fa-mobile"><span className="label">Phone</span></h3>
-                                        323-527-8352
+                                        000-000-0000
                                     </li>
                                     <li>
                                         <h3 className="icon fa-envelope-o"><span className="label">Email</span></h3>
-                                        <a href="#">support@aircrft.com</a>
+                                        <a href="#">lets.talk@conradlin.com</a>
                                     </li>
                                 </ul>
                             </div>
